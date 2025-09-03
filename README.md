@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @Shwetank8<br>👀 I’m interested in full-stack web development<br>🌱 I’m currently learning NextJs<br>📫 How to reach me - sinhashwetank74@gmail.com<br>
+Hi, I’m @Shwetank Sinha<br>👀 I’m interested in full-stack web development<br>🌱 I’m currently learning NextJs<br>📫 How to reach me - sinhashwetank74@gmail.com<br>
 
 
 ## 🌐 Socials:
